@@ -1,1 +1,1 @@
-control PWM freqncy and duty cycle
+Control PWM freqncy and duty cycle with two potentiometers.
